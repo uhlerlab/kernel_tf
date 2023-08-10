@@ -1,0 +1,16 @@
+cff-version: v0.1.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Radhakrishnan"
+  given-names: "Adityanarayanan"
+- family-names: "Ruiz Luyten"
+  given-names: "Max"
+- family-names: "Prasad"
+  given-names: "Neha"
+- family-names: "Uhler"
+  given-names: "Caroline"
+title: "Transfer Learning with Kernel Methods"
+version: 0.1.0
+doi: 10.5281/zenodo.8233978 
+date-released: 2023-08-10
+url: "https://github.com/uhlerlab/kernel_tf"
